@@ -4,3 +4,5 @@ The paper: "[Similarity Search in Graph Databases: A Multi-layered Indexing Appr
 The algorithms are implemented in C++ and compiled in Microsoft Visual Studio 2015.
 
 Author: Yongjiang Liang liang@cs.fsu.edu
+运行界面：
+展示了查询的时间和建立索引的时间
