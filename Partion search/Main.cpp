@@ -9,7 +9,7 @@
 #include "timer.h"
 using namespace std;
 
-int k = 2;		// number of partitions for each graph in the database
+int k = 2;		// number of partitions for each graph in the database实数化参数k=2,为GED实例的的下界，若相似则有r+k个分区中，至少k个分区//同构
 int threshold = 2;   //The GED threshold
 string graphDataBaseFileName = "dataset/data.graphs.2";
 string queryGraphFileName = "dataset/query.graphs.1";
